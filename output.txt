@@ -1,0 +1,3 @@
+5 is prime
+14 is not prime
+7 is prime
